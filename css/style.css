@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-color: #686363;
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+}
+.card{
+    width: 400px;
+    height: 600px;
+    margin: 30px auto;
+    background-color: #fff;
+    box-shadow: 0 5px 20px #d42626;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+ .card-photo{
+        display: block;
+        width: 230px;
+        height: 300px;
+        margin: 0 auto;
+        border-radius: 5px;
+                            
+    }
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    color: brown;
+}
+.card-text{
+    font-size: 15px;
+}
